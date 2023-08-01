@@ -58,3 +58,6 @@ Reason: too many pointers in it.
 [3] Curl tutorial. https://curl.haxx.se/docs/manual.html.  
 [4] ADDRINFOA structure. https://docs.microsoft.com/en-us/windows/win32/api/ws2def/ns-ws2def-addrinfoa.  
 [5] HTTP Server: Everything you need to know to Build a simple HTTP server from scratch. https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa.  
+
+## Final Project Video
+This [video](https://media.pdx.edu/media/CS533+final+project%2C+Cecilia%2C++June+11th+2020%2C+/0_9dl13581) shows how to test the the server performance by sending multiple requests with curl from each clilent.
