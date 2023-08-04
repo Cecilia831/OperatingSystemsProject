@@ -1,5 +1,5 @@
 # Operating Systems Final Project Report
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://media.pdx.edu/media/CS533+final+project%2C+Cecilia%2C++June+11th+2020%2C+/0_9dl13581)
+[![Watch the video](https://github.com/Cecilia831/OperatingSystemsProject/blob/49db80216916f29177ae67d6956475faa5a725e9/OS.png)](https://media.pdx.edu/media/CS533+final+project%2C+Cecilia%2C++June+11th+2020%2C+/0_9dl13581)
 ## Server part
 
 There are two ways to do synchronization in a server, Multi-processes and Multi-threads. They
