@@ -1,5 +1,7 @@
 # Operating Systems Final Project Report
 [![Watch the video](https://github.com/Cecilia831/OperatingSystemsProject/blob/49db80216916f29177ae67d6956475faa5a725e9/OS.png)](https://media.pdx.edu/media/CS533+final+project%2C+Cecilia%2C++June+11th+2020%2C+/0_9dl13581)
+## Description
+This is a project that switch the server procesor from multi-core to multi-threads to save system resource, multiple clients sent package to server regularly to test the core's scheduling ability and efficiency.
 ## Server part
 
 There are two ways to do synchronization in a server, Multi-processes and Multi-threads. They
